@@ -1,0 +1,10 @@
+C:\Users\Ibrahim\Source\Repos\LeeftijdControle\LeeftijdControle\obj\Debug\LeeftijdControle.csprojAssemblyReference.cache
+C:\Users\Ibrahim\Source\Repos\LeeftijdControle\LeeftijdControle\obj\Debug\LeeftijdControle.Form1.resources
+C:\Users\Ibrahim\Source\Repos\LeeftijdControle\LeeftijdControle\obj\Debug\LeeftijdControle.Properties.Resources.resources
+C:\Users\Ibrahim\Source\Repos\LeeftijdControle\LeeftijdControle\obj\Debug\LeeftijdControle.csproj.GenerateResource.cache
+C:\Users\Ibrahim\Source\Repos\LeeftijdControle\LeeftijdControle\obj\Debug\LeeftijdControle.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\Source\Repos\LeeftijdControle\LeeftijdControle\bin\Debug\LeeftijdControle.exe.config
+C:\Users\Ibrahim\Source\Repos\LeeftijdControle\LeeftijdControle\bin\Debug\LeeftijdControle.exe
+C:\Users\Ibrahim\Source\Repos\LeeftijdControle\LeeftijdControle\bin\Debug\LeeftijdControle.pdb
+C:\Users\Ibrahim\Source\Repos\LeeftijdControle\LeeftijdControle\obj\Debug\LeeftijdControle.exe
+C:\Users\Ibrahim\Source\Repos\LeeftijdControle\LeeftijdControle\obj\Debug\LeeftijdControle.pdb
